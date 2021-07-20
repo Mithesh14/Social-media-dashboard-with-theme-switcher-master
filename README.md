@@ -30,6 +30,17 @@ Users should be able to:
 
 ### Screenshot
 
+![screenshots](https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master/blob/main/images/image1.jpg)
+
+![screenshots](https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master/blob/main/images/image2.jpg)
+
+![screenshots](https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master/blob/main/images/image3.jpg)
+
+![screenshots](https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master/blob/main/images/image4.jpg)
+
+![screenshots](https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master/blob/main/images/image5.jpg)
+
+![screenshots](https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master/blob/main/images/image6.jpg)
 
 ### Links
 
