@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <a href="https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master">Social media dashboard with theme switcher</a>
-- Live Site URL: <a href="https://github.com/Mithesh14/Social-media-dashboard-with-theme-switcher-master">Social media dashboard with theme switcher</a>
+- Live Site URL: <a href="https://mithesh14.github.io/Social-media-dashboard-with-theme-switcher-master/">Social media dashboard with theme switcher</a>
 
 ## My process
 
